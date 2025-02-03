@@ -1,3 +1,24 @@
+# Overview
+
+Hello Word example project
+
+
+[Software Demo Video](https://youtu.be/cnZ7j55S2Ac)
+
+# Development Environment
+
+Visual Studeo Code
+
+TypeScript + React + vite
+
+# Useful Websites
+
+{Make a list of websites that you found helpful in this project}
+* [Web Site Name](https://www.youtube.com/watch?v=WBPrJSw7yQA)
+* [Web Site Name](https://www.youtube.com/watch?v=gnkrDse9QKc)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
